@@ -18,7 +18,7 @@ html,body{
 #box{
     width: 80%;
     height: 70%;
-    background-color: aqua;
+    background-color: #abc7ff;
     border-radius: 4%;
     box-shadow: 5px 10px 5px rgb(100, 53, 200);
 }
@@ -76,3 +76,4 @@ p{
     font-size: 100%;
   }
 }
+
